@@ -24,7 +24,6 @@ An interactive and responsive web application that helps users calculate tips an
 
 ## 📁 File Structure
 
-
 tip-calculator/
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet for layout and responsiveness
