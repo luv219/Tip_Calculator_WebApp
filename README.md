@@ -22,14 +22,24 @@ An interactive and responsive web application that helps users calculate tips an
 
 ---
 
+Here's the **corrected and properly formatted file structure** in Markdown using code block and correct indentation for clarity:
+
+---
+
+
 ## 📁 File Structure
 
+
+
 tip-calculator/
-├── index.html # Main HTML file
-├── style.css # Stylesheet for layout and responsiveness
-├── script.js # Logic for dynamic tip calculation
-├── .gitignore # Common ignores (optional, helpful)
-└── README.md # Project documentation
+├── index.html     # Main HTML file
+├── style.css      # Stylesheet for layout and responsiveness
+├── script.js      # Logic for dynamic tip calculation
+├── .gitignore     # Common ignores (optional, helpful)
+└── README.md      # Project documentation
+
+```
+```
 
 ---
 
