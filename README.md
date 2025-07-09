@@ -14,12 +14,6 @@ An interactive and responsive web application that helps users calculate tips an
 
 ---
 
-## 📷 Screenshot
-
-![Screenshot](screenshot.png) <!-- Replace or add your screenshot file if desired -->
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
