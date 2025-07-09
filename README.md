@@ -26,23 +26,6 @@ Here's the **corrected and properly formatted file structure** in Markdown using
 
 ---
 
-
-## 📁 File Structure
-
-
-
-tip-calculator/
-├── index.html     # Main HTML file
-├── style.css      # Stylesheet for layout and responsiveness
-├── script.js      # Logic for dynamic tip calculation
-├── .gitignore     # Common ignores (optional, helpful)
-└── README.md      # Project documentation
-
-```
-```
-
----
-
 ## 🔧 How to Use
 
 1. **Clone or download** this repository:
