@@ -30,7 +30,7 @@ Here's the **corrected and properly formatted file structure** in Markdown using
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/your-username/tip-calculator.git
+   git clone https://github.com/luv219/Tip_Calculator_WebApp.git
 
 2. **Open `index.html`** in your web browser:
 
